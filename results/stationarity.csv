@@ -1,0 +1,6 @@
+Ряд,n,ADF,ADF p,KPSS,KPSS p,Примечание
+День: исходный,298,-14.795951186048748,2.13550627845046e-27,0.6615396690556512,0.01704184826766807,
+День: разность 1,297,-9.098585898947794,3.657576551076974e-15,0.11528707898092956,0.1,The test statistic is outside of the range of p-values available in the look-up table. The actual p-value is greater than the p-value returned.
+День: разность 7,291,-5.492903784364128,2.1552434328152422e-06,0.01278792797921338,0.1,The test statistic is outside of the range of p-values available in the look-up table. The actual p-value is greater than the p-value returned.
+Неделя: исходный,42,-5.453811151697877,2.6086167876426607e-06,0.6115408579382625,0.021587194732885222,
+Неделя: разность 1,41,-9.94252561884727,2.641190760401504e-17,0.49999999999999867,0.04166666666666697,
